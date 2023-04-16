@@ -13,9 +13,9 @@
     <div class="bottom">
         <p class="footerText">IT Support System</p>
             <div class="socialMedia">
-                <a href="send-email.php"><i class="fa fa-envelope" style="font-size:40px"></i></a>
-                <i class="fa fa-facebook-square" style="font-size:40px;color:blue"></i>
-                <i class="fa fa-twitter-square" style="font-size:40px;color:lightblue"></i>
+                <a href="send-email.php"><i class="fa fa-envelope"></i></a>
+                <i class="fa fa-facebook-square" style="color:blue"></i>
+                <i class="fa fa-twitter-square" style="color:lightblue"></i>
             </div>
     </div>
 </html>
